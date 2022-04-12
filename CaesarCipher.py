@@ -1,7 +1,7 @@
 # This program is a Caesar Cipher.
 # It will encrypt a word by shifting each alphabetic character in the text by a fixed amount.
 # This program uses a shift of 4 for each character.
-
+# Random comment
 
 string = input("Enter a word or phrase: ")
 alist = list(string)
